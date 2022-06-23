@@ -1,0 +1,20 @@
+{
+  "member": {
+    "id": 123,
+    "name": "라이언"
+  },
+  "point": {
+    "total": 1000000,
+    "hotelOnly": 30000
+  },
+  "book": {
+    "hotel": {
+      "today": ["그랜드 하얏트"],
+      "total": ["그랜드 하얏트"]
+    },
+    "restaurant": {
+      "today": [],
+      "total": []
+    }
+  }
+}
