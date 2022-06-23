@@ -10,11 +10,15 @@
   "book": {
     "hotel": {
       "today": ["그랜드 하얏트"],
-      "total": ["그랜드 하얏트"]
+      "all": ["그랜드 하얏트"]
     },
     "restaurant": {
       "today": [],
       "total": []
     }
+  },
+  "coupon": {
+    "total": 3,
+    "all": ["8월 한정", "여름 특가"]
   }
 }

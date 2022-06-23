@@ -14,3 +14,65 @@ a {
 * {
   box-sizing: border-box;
 }
+
+nav{
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+main{
+  font-size: 1.2rem;
+}
+
+.profile_item{
+
+}
+
+.profile_item > .profile_name{
+  margin-left: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  border-radius: 50%;
+}
+
+.nav_wrap{
+  width: 90vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.info_item{
+  display: flex;
+  padding: 0.5rem;
+}
+
+.info_item > a{
+  color: saddlebrown;
+}
+
+.info_item > span {
+  margin-right: 0.5rem;
+}
+
+.info {
+  padding: 0.5rem;
+  border: beige 1px solid;
+  border-radius: 5px;
+}
+
+.welcome{
+  padding: 0.5rem;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
